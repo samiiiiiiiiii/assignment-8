@@ -1,0 +1,11 @@
+
+.post-btn{
+    margin: auto;
+}
+.post_content{
+    border-radius: 30px;
+background: #8e53f3;
+color:#8e53f3;
+box-shadow:  5px 5px 10px #482a7c, 
+             -5px -5px 10px #d47cff;
+}
